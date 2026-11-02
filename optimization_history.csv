@@ -1,0 +1,8 @@
+timestamp,pid,process_name,cpu_before,memory_before,priority_before,priority_after,cpu_after,memory_after,restored
+2026-10-07 22:47:40,9296,python.exe,85.4,0.13,32,16384,98.9,0.13,True
+2026-10-07 22:49:26,17308,python.exe,0,0,32,16384,0,0,True
+2026-10-07 22:51:48,17308,python.exe,85.4,0.13,32,16384,93.2,0.13,True
+2026-10-07 22:53:22,17308,python.exe,93.7,0.13,32,16384,93.2,0.13,True
+2026-10-07 22:53:30,17308,python.exe,87.0,0.13,32,16384,91.1,0.13,True
+2026-10-07 22:53:38,17308,python.exe,91.6,0.13,32,16384,91.1,0.13,True
+2026-10-07 23:05:50,17308,python.exe,86.4,0.13,32,16384,92.7,0.13,True
